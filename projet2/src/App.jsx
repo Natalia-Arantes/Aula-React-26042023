@@ -18,7 +18,7 @@ export default function App() {
         <ShowName />
       </div>
       <div className="container">
-        <h3>Exercicio 03</h3>
+        <h3>Exercicio 03 </h3>
         <CaixaTxt num={20} />
       </div>
       <div className="container">
