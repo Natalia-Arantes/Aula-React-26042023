@@ -1,0 +1,14 @@
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.black {
+    font-weight: bold;
+}
+
+.container {
+    padding: 25px;
+    border: 1px solid black;
+    margin: 25px;
+}
